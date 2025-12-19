@@ -1,3 +1,5 @@
+> This markdown file is auto-converted from [original report PDF](https://github.com/Trenza1ore/HugoSynth/blob/main/Original_Report.pdf)
+
 ## Overview of my Software 
 
 The audio processing software I created consists of several components, each in the form of Matlab Apps.
